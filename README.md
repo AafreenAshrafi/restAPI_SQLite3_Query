@@ -1,6 +1,6 @@
 # restAPI_SQLite3_Query
 
-
+itilite is my Project name and app is myapiapp
 DB in use : SQLite3
 
 methods restframework::
